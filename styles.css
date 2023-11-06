@@ -1,0 +1,30 @@
+.traffic {
+    width: 200px;
+    height: 400px;
+    background-color: black;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .red, .yellow, .green {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
